@@ -1,10 +1,10 @@
-PoESkillTree
+PoESkillTree - An Unofficial Offline Skilltree Calc
 ============
 
-##Change Log:
+###Change Log:
 * Starting change log will update later (Aug 21)
 
-##Features: 
+###Features: 
 * Hide sidebar
 * Updated 1.2 data
 * Hp/lvl changed to 12
@@ -13,8 +13,9 @@ PoESkillTree
 * Hotkeys
 * Enter in url to load build
 * Drag&Drop in builds list
+* Lots of UI changes and updates
 
-##Hotkeys:
+###Hotkeys:
 * Shift + Left Click: Zoom In
 * Ctrl + Left Click: Zoom Out
 * Ctrl + 1: Scion
@@ -32,9 +33,8 @@ PoESkillTree
 * Ctrl + Y: Redo last skill tree change
 * Ctrl + S: Save build as
 
-##Credits:
-* Headhorr
+###Credits:
+* Headhorr - for his original "Unofficial Offline Skilltree Calc" http://www.pathofexile.com/forum/view-thread/19723
 * Emmitt
 * Kaezin
 * SpaceOgre
-MTX Finder: http
