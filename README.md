@@ -2,7 +2,6 @@ PoESkillTree - An Unofficial Offline Skilltree Calc
 ============
 
 ###Change Log:
-* Data pulling on start up fixed (SpaceOgre)
 * Starting change log will update later (Aug 21)
 
 ###Features: 
