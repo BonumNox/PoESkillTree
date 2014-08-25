@@ -2,6 +2,9 @@ PoESkillTree - An Unofficial Offline Skilltree Calc
 ============
 
 ###Change Log:
+* 2014-08-25
+  * Total Attributes column is now able to be read
+  * RegEx search now updates on check
 * 2014-08-24
   * Added ToolTip (Note System) support to builds menu (Right Click)
   * Data pulling on start up fixed (SpaceOgre)
