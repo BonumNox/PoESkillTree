@@ -9,7 +9,7 @@ PoESkillTree - An Unofficial Offline Skilltree Calc
   * Added ToolTip (Note System) support to builds menu (Right Click)
   * Data pulling on start up fixed (SpaceOgre)
 * 2014-08-21
-  * Starting change log will update later (Aug 21)
+  * Starting change log
 
 ###Features: 
 * Hide sidebar
