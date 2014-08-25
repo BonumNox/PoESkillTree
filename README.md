@@ -37,6 +37,11 @@ PoESkillTree - An Unofficial Offline Skilltree Calc
 * Ctrl + Y: Redo last skill tree change
 * Ctrl + S: Save build as
 
+###Help/Issues
+* For help please check out the thread in the offical forum: https://www.pathofexile.com/forum/view-thread/996805/
+* If you find any bugs/faults please report it here on Github
+* Miss any features? Create an issue here or post in the forum thread
+
 ###Credits:
 * Headhorr - for his original "Unofficial Offline Skilltree Calc" http://www.pathofexile.com/forum/view-thread/19723
 * Emmitt
