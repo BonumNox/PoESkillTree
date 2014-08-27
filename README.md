@@ -2,6 +2,8 @@ PoESkillTree - An Unofficial Offline Skilltree Calc
 ============
 
 ###Change Log:
+* 2014-08-27
+  * Added: Theme chooser (Light or Dark)
 * 2014-08-25
   * Total Attributes column is now able to be read
   * RegEx search now updates on check
